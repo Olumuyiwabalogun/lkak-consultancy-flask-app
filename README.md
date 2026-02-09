@@ -60,3 +60,11 @@ Why this works for your GitHub:
     Architecture: It gives them a "bird's-eye view" of how the app functions.
 
     Future Improvements: This is a "sales" tactic—it shows you have a vision for how the app can grow, which might lead to more work for you!
+
+
+    <img width="960" height="504" alt="lkak 4" src="https://github.com/user-attachments/assets/7e45bd1a-aa1c-415a-9253-f9a6e7aef86f" />
+<img width="960" height="504" alt="lkak 3" src="https://github.com/user-attachments/assets/da4106ab-3ecc-400b-82e0-fb08fe8f1c81" />
+<img width="960" height="504" alt="lkak 2" src="https://github.com/user-attachments/assets/8db418a5-4e99-4dc3-ad3e-78c20de7382a" />
+<img width="960" height="504" alt="lkak 1" src="https://github.com/user-attachments/assets/05306972-ce36-4ed7-9b29-1be96f792df5" />
+<img width="960" height="504" alt="lkak 5" src="https://github.com/user-attachments/assets/c22a3a32-be6f-40e2-9aa2-6855be3eda56" />
+
